@@ -4,4 +4,6 @@ With the aid of machine learning and data science, it is possible to predict the
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" />
 
-Taking into consideration these features, machine learning predictions could be built. It is important to perform Exploratory Data Analysis to predict the demand for these houses as well. 
+Taking into consideration these features, machine learning predictions could be built. It is important to perform Exploratory Data Analysis to predict the demand for these houses as well. There could be null values that must also be addressed before giving those values to the models. Steps must be taken to ensure that models don't overfit the data or underfit it. 
+
+
