@@ -1,6 +1,6 @@
 # 🏡🏠 Airbnb Home Prices Prediction 
 
-With the aid of __machine learning__ and __data science__, it is possible to predict the prices of houses respectively. There are features such as __longitude__ and __latitude__ that help determine the prices along with pther features such as neighborhood and the demand for the area. 
+With the aid of __machine learning__ and __data science__, it is possible to predict the prices of houses respectively. There are features such as __longitude__ and __latitude__ that help determine the prices along with other features such as neighborhood and the demand for the area. 
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/homegif.gif" />
 
