@@ -12,8 +12,8 @@ Taking into consideration these features, machine learning predictions could be 
 
 The problem that we are trying to consider is the price prediction which is a regression problem. Hence, we should choose the metrics that are important for the regression problem. Below are the metrics that were considered for this problem.
 
-* Mean Squared Error (MSE)
-* Mean Absolute Error (MAE) 
+* __Mean Squared Error (MSE)__
+* __Mean Absolute Error (MAE)__
 
 ## Outcome 
 
