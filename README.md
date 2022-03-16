@@ -6,7 +6,7 @@ With the aid of __machine learning__ and __data science__, it is possible to pre
 
 ## Metrics
 
-The problem that we are trying to consider is the price prediction which is a regression problem. Hence, we should choose the metrics that are important for the regression problem. Below are the metrics that were considered for this problem.
+The problem that we are trying to consider is the price prediction which is a __regression__ problem. Hence, we should choose the metrics that are important for the regression problem. Below are the metrics that were considered for this problem.
 
 * __Mean Squared Error (MSE)__
 * __Mean Absolute Error (MAE)__
