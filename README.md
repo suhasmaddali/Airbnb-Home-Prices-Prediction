@@ -15,9 +15,9 @@ The problem that we are trying to consider is the price prediction which is a re
 
 Taking into consideration these features, __machine learning predictions__ could be built. It is important to perform __Exploratory Data Analysis__ to predict the demand for these houses as well. There could be __null__ values that must also be addressed before giving those values to the models. Steps must be taken to ensure that models don't __overfit__ the data or __underfit__ it. 
 
-## Machine Learning Models Used
+## Machine Learning Models
 
-There are many libraries from sklearn which we might be using for our machine learning predictions. Below are the best performing machine learning and deep learning models that were used in the prediction of house prices.
+There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that were used in the prediction of house prices.
 
 * __Decision Trees__
 * __Random Forests__
