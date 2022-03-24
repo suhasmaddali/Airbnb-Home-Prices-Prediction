@@ -21,8 +21,8 @@ Taking into consideration these features, __machine learning predictions__ could
 
 ## Exploratory Data Analysis (EDA)
 
-* It would be seen based on the results from the KDE plot that there are a few outliers in the prices of houses. Therefore, those prices had to be removed to reduce the mean squared error or mean absolute error of the models. 
-* A large portion of the users from Airbnb were willing to rent the entire apartment instead of a private room or a shared room respectively.
+* It would be seen based on the results from the KDE plot that there are a few outliers in the prices of houses. Therefore, those prices had to be removed to reduce the mean squared error or mean absolute error of the models. __Removing outliers__ is a good idea as not all the models are robust to outliers. 
+* A large portion of the users from Airbnb were willing to rent the entire apartment instead of a __private room__ or a __shared room__ respectively.
 * A large number of houses taken into consideration were from __Manhattan__ followed by __Brooklyn__. 
 * There were very few houses from __Staten Island__ compared to the other cities. 
 
