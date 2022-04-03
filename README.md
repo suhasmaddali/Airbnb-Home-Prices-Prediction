@@ -43,6 +43,7 @@ There are many libraries from __sklearn__ which we might be using for our machin
 
 * __Additional features__ such as __weather conditions__ and the __crime rate__ present in the localities also help determine the prices of houses which could be added to improve the __performance__ of machine learning models. 
 * The output from the __best models__ should be integrated in __AirBnb application (app)__ so that hosts can determine the best price and this leads to their __higher engagement__ in the application. 
+* The best machine learning model could also be deployed in the cloud such as in Amazon Web Services (AWS) so that we can host our product on websites and it is accessible to users across different regions. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
