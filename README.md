@@ -12,7 +12,7 @@ With the aid of __machine learning__ and __data science__, it is possible to pre
 
 The problem that we are trying to consider is the price prediction which is a __regression__ problem. Hence, we should choose the metrics that are important for the regression problem. Below are the metrics that were considered for this problem.
 
-* __Mean Squared Error (MSE)__
+* [__Mean Squared Error (MSE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 * __Mean Absolute Error (MAE)__
 
 ## Machine Learning Analysis 
