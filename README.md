@@ -32,7 +32,7 @@ There are many libraries from __sklearn__ which we might be using for our machin
 
 * [__Decision Trees__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 * [__Random Forests__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
-* __Neural Networks__
+* [__Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 
 ## Outcomes 
 
