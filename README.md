@@ -30,7 +30,7 @@ Taking into consideration these features, __machine learning predictions__ could
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that were used in the prediction of house prices.
 
-* __Decision Trees__
+* [__Decision Trees__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 * __Random Forests__
 * __Neural Networks__
 
