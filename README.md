@@ -30,6 +30,8 @@ Taking into consideration these features, __machine learning predictions__ could
 
 In this section, we will **delve** into the data to uncover valuable insights and visualize the relationships between different features. By exploring the data in depth and gaining a visual understanding of its structure, we can better understand the underlying patterns and make more accurate predictions. With this approach, we can unlock the full potential of our data and make informed decisions based on the insights we discover.
 
+There are features such as **name** of the place along with other features such as **neighbourhood** and **room_type** that could be used to determine the overall price of the rooms. Total number of reviews can give us a good representation about the popularity of the place as compared to other rooms in the vicinity. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Description.png"/>
