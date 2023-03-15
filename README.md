@@ -26,6 +26,8 @@ Taking into consideration these features, __machine learning predictions__ could
 * A large number of houses taken into consideration were from __Manhattan__ followed by __Brooklyn__. 
 * There were very few houses from __Staten Island__ compared to the other cities. 
 
+## Visualizations
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
