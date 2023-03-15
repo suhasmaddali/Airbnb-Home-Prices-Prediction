@@ -38,6 +38,8 @@ There are rooms that were booked for more than 1200 days but they can be less in
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Description.png"/>
 
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Dataset%20Information.png"/>
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
