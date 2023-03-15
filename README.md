@@ -38,6 +38,8 @@ There are rooms that were booked for more than 1200 days but they can be less in
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Description.png"/>
 
+The data below shows the total number of missing values present. It could be seen that there are missing values in the data for features such as 'last_review' and 'reviews_per_month' features. These features impact the performance of models if not treated before training them. Therefore, steps can be taken to ensure that these features are either imputed or removed. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Dataset%20Information.png"/>
 
 ## Machine Learning Models
