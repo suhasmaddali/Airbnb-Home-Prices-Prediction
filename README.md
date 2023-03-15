@@ -28,7 +28,7 @@ Taking into consideration these features, __machine learning predictions__ could
 
 ## Visualizations
 
-In this section, we are going to be exploring various features in the data and also gain a visual understanding of relationships between features to aid in our understanding of our data in making useful predictions. 
+In this section, we will **delve** into the data to uncover valuable insights and visualize the relationships between different features. By exploring the data in depth and gaining a visual understanding of its structure, we can better understand the underlying patterns and make more accurate predictions. With this approach, we can unlock the full potential of our data and make informed decisions based on the insights we discover.
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
