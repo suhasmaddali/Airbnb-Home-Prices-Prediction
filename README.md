@@ -28,6 +28,8 @@ Taking into consideration these features, __machine learning predictions__ could
 
 ## Visualizations
 
+In this section, we are going to be exploring various features in the data and also gain a visual understanding of relationships between features to aid in our understanding of our data in making useful predictions. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
 ## Machine Learning Models
