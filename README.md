@@ -34,6 +34,8 @@ There are features such as **name** of the place along with other features such 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
+There are rooms that were booked for more than 1200 days but they can be less in quantity. A vast majority of rooms were booked between 1 - 5 days as shown in data description. The minimum price of the room was 0 while the maximum price of the room per night is 10000. These values could most likely be outliers. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Description.png"/>
 
 ## Machine Learning Models
