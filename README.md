@@ -50,7 +50,7 @@ The data below shows the total number of missing values present. It could be see
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Prices%20distribution.png"/>
 
-A large number of records in the data contain the **hosting** of entire houses or apartments. There are quite a low number of shared rooms available. There are also **private rooms** available but a large portion of the houses in the data consists of entire apartments or homes. 
+The **majority** of the listings in the dataset comprise entire homes or apartments for hosting, while the number of shared rooms available is comparatively low. Private rooms are also available, but they constitute a smaller proportion of the listings in the dataset.
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Room%20type%20count.png"/>
 
