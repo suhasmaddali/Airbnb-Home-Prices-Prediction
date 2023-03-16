@@ -42,6 +42,8 @@ The data below shows the total number of missing values present. It could be see
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Dataset%20Information.png"/>
 
+Missingno plots give a good understanding about the total missing values present in the data in the form of white strips (depends on color mapping). There are features that contain missing information such as 'last_review' and 'reviews_per_month'. Therefore, steps could be taken to ensure that these values are either removed or imputed. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Missingno%20plot.png"/>
 
 ## Machine Learning Models
