@@ -46,6 +46,10 @@ The data below shows the total number of missing values present. It could be see
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Missingno%20plot.png"/>
 
+**KDE Plots** give a good idea about the distribution of values present in the data. In our case, we take a look at the distribution of price feature and it's density across different regions. A large amount of prices are concentrated in the region between **100 - 500** respectively. There can be some outliers as well as depicted in the diagram. 
+
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Prices%20distribution.png"/>
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
