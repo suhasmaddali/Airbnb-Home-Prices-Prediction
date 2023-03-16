@@ -54,6 +54,10 @@ The **majority** of the listings in the dataset comprise entire homes or apartme
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Room%20type%20count.png"/>
 
+This plot shows the **latitude** and **longitude** information about various locations used in the dataset. The data is taken from varions regions of New York. There are regions such as Brooklyn, Manhattan, Queens and others. More add could be added if the ML models are able to make predictions well on this dataset. 
+
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Location%20plot.png"/>
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
