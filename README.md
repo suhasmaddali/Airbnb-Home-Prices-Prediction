@@ -50,6 +50,8 @@ The data below shows the total number of missing values present. It could be see
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Prices%20distribution.png"/>
 
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Room%20type%20count.png"/>
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
