@@ -68,6 +68,7 @@ This plot shows the **latitude** and **longitude** information about various loc
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Feature%20Importance.png"/>
 
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20leaves).png"/> 
 
 ## Machine Learning Models
 
