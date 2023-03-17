@@ -64,6 +64,8 @@ This plot shows the **latitude** and **longitude** information about various loc
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20prices%20plot.png"/>
 
+<img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Decision%20Tree%20Hyperparameter%20tuning%20(Max%20depth).png"/>
+
 ## Machine Learning Models
 
 There are many libraries from __sklearn__ which we might be using for our machine learning predictions. Below are the best performing __machine learning__ and __deep learning models__ that was used in the prediction of house prices.
