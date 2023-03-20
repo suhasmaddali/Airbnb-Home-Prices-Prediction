@@ -34,7 +34,7 @@ There are features such as **name** of the place along with other features such 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
-There are rooms that were booked for more than 1200 days but they can be less in quantity. A vast majority of rooms were booked between 1 - 5 days as shown in data description. The minimum price of the room was 0 while the maximum price of the room per night is 10000. These values could most likely be outliers. 
+Decision trees are valued for their **interpretability**, as they allow us to understand the importance of different features in predicting outcomes. After selecting the **best depth** for the tree, the resulting model indicates that the neighbourhood of Woodside was the most influential factor in determining housing prices. This was followed by the longitude and neighbourhood of Midland Beach features, which also had a significant impact on prices.
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Data%20Description.png"/>
 
