@@ -70,7 +70,11 @@ Upon examining the overall distribution of housing prices across different regio
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20prices%20plot.png"/>
 
+To optimize the performance of machine learning models, **hyperparameter tuning** is a crucial step. The accompanying plot displays the results of a decision tree regressor model trained using different values for the maximum depth hyperparameter. The graph illustrates the corresponding cross-validation error for each depth value tested. Notably, the model performs best with a maximum depth of 4, which results in the lowest cross-validation error.
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Decision%20Tree%20Hyperparameter%20tuning%20(Max%20depth).png"/>
+
+Decision trees are known for thier interpretability. After considering the best depth for the tree and looking at the tree, we can get to see that neighbourhood_Woodside was an important factor to determine the overall prices of houses. This was followed by longitude and neighbourhood_Midland_Beach features that were also important to determine the prices. 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Feature%20Importance.png"/>
 
