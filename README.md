@@ -58,7 +58,11 @@ This plot shows the **latitude** and **longitude** information about various loc
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Location%20plot.png"/>
 
+For most properties, the monthly number of reviews is around 100, with only a few houses having significantly more. This distribution is illustrated in the accompanying plot.
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Reviews%20per%20month%20plot.png"/>
+
+The plot below shows various regions in New York that were considered to determine the housing prices. 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20plots.png"/>
 
