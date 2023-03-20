@@ -58,13 +58,15 @@ This plot shows the **latitude** and **longitude** information about various loc
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Location%20plot.png"/>
 
-For most properties, the monthly number of reviews is around 100, with only a few houses having significantly more. This distribution is illustrated in the accompanying plot.
+For most properties, the monthly number of reviews is around **100**, with only a few houses having significantly more. This distribution is illustrated in the accompanying plot.
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Reviews%20per%20month%20plot.png"/>
 
-The plot below shows various regions in New York that were considered to determine the housing prices. 
+The plot displays the **distribution** of housing prices across different regions in New York, with **Manhattan** having the highest concentration of houses, followed by **Brooklyn**. Conversely, there are relatively few houses in **Staten Island**. As a result, the model's predictive accuracy for houses in Staten Island may be lower compared to those in Manhattan due to the smaller sample size. 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20plots.png"/>
+
+Looks at the overall price distribution of all the houses in various regions as highligted above, it can be seen that there are some price outliers for each of the categories. Therefore, these outliers must be removed as they can sometimes confuse the ML models in predicting the output that is way beyond what was expected. 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20prices%20plot.png"/>
 
