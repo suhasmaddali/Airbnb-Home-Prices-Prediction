@@ -66,7 +66,7 @@ The plot displays the **distribution** of housing prices across different region
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20plots.png"/>
 
-Looks at the overall price distribution of all the houses in various regions as highligted above, it can be seen that there are some price outliers for each of the categories. Therefore, these outliers must be removed as they can sometimes confuse the ML models in predicting the output that is way beyond what was expected. 
+Upon examining the overall distribution of housing prices across different regions, it becomes apparent that there are **outliers** in each category. These outliers have the potential to skew the results of **machine learning models** by introducing unexpected values. Therefore, it is recommended to remove these outliers from the dataset to improve the accuracy and reliability of the model's predictions.
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/Neighborhood%20prices%20plot.png"/>
 
