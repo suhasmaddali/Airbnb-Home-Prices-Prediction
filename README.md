@@ -82,6 +82,8 @@ This plot shows the performance of the **decision tree regressor** and computes 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20leaves).png"/> 
 
+Having recognized the importance of the **minimum number of samples** as a hyperparameter, we diligently conducted hyperparameter tuning by testing a broader range of values for this parameter. We then plotted the results to visualize the overall performance and gain a clearer understanding. Based on the analysis, setting the minimum number of samples to 200 yielded the lowest mean squared error (cross-validation error), indicating optimal performance for this particular hyperparameter.
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20split).png"/>
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/RF%20Hyperparameter%20tuning%20(no.%20of%20estimator%20values).png"/>
