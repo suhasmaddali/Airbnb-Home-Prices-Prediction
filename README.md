@@ -78,6 +78,8 @@ Decision trees are known for thier interpretability. After considering the best 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Feature%20Importance.png"/>
 
+This plot shows the performance of the **decision tree regressor** and computes the **mean squared error** for various values of hyperparameter "Min samples leaves". As the number of Min samples leaves increases, there is also an increase in mean squared error which is undesirable. Steps can be taken to choose the most optimum value for minimum number of samples to reduce the overall cross-validation error. 
+
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20leaves).png"/> 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20split).png"/>
