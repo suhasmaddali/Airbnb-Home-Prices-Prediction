@@ -86,7 +86,7 @@ Having recognized the importance of the **minimum number of samples** as a hyper
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/DT%20Hyperparameter%20tuning%20(Min%20samples%20split).png"/>
 
-Performing the same set of actions on random forest regressor, we tend to see that with the increase in the number of estimators (trees), there is an improvement in the performance of the model on the cross-validation data. However, this can be computationally intensive as it can only be run in a sequence. 
+Performing the same set of actions on **random forest regressor**, we tend to see that with the increase in the number of estimators (trees), there is an improvement in the performance of the model on the cross-validation data. However, this can be computationally intensive as it can only be run in a sequence. 
 
 <img src = "https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction/blob/main/images/RF%20Hyperparameter%20tuning%20(no.%20of%20estimator%20values).png"/>
 
